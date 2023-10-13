@@ -19,7 +19,6 @@ body {
 }
 
 .logo-link {
-    
     font-family: "Raleway", sans-serif;
     color: #2E2F42;
     font-size: 18px;
@@ -33,6 +32,7 @@ body {
 .navigation-list {
     list-style-type:none;
 }
+
 .navigation-item-link {
     color: #2e2f42;
     font-size: 16px;
