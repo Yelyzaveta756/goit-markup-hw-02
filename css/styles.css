@@ -15,10 +15,11 @@ body {
     line-height: 1.17; 
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .logo-link {
-    text-decoration: none;
+    
     font-family: "Raleway", sans-serif;
     color: #2E2F42;
     font-size: 18px;
@@ -29,13 +30,11 @@ body {
     text-transform: uppercase;
 }
 
-
-
 .navigation-list {
     list-style-type:none;
 }
 .navigation-item-link {
-    color: #2E2F42;
+    color: #2e2f42;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
